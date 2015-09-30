@@ -1,4 +1,0 @@
-Current Version does:
-
-1. Acquires 1 channel of neural waveforms
-2. Acquires 5 channels of analog data (

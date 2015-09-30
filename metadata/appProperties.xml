@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<appProperties xmlns="http://schemas.mathworks.com/matlab/app/2012/appProperties" signature="F8C0206918D7F9FB78FCB7C6D84B6910D2C1D708">
+
+  <entryPoint>TDTPipeOnline_4</entryPoint>
+
+  <name>TDTPipeOnline_4</name>
+
+  <version>1.0</version>
+
+  <createdByMATLABRelease>(R2013a)</createdByMATLABRelease>
+
+  <GUID>724d48f4-a447-467d-9cb6-163f6f5b7ebd</GUID>
+
+  <summary>GUI and dependant files to extract spike, analog and behavioral data from TDT tanks and .mat files</summary>
+
+  <author>
+    <name>Bennur S</name>
+    <contact></contact>
+    <organization></organization>
+  </author>
+
+  <supportedPlatforms/>
+
+  <requiredProducts>
+    <product identifier="1" name="MATLAB" version="8.1"/>
+    <product identifier="60" name="Curve Fitting Toolbox" version="3.3.1"/>
+    <product identifier="19" name="Statistics Toolbox" version="8.2"/>
+    <product identifier="8" name="Signal Processing Toolbox" version="6.19"/>
+  </requiredProducts>
+
+  <numFiles>21</numFiles>
+
+  <created>2014-03-19T21:19:06Z</created>
+
+  <appEntries>
+    <appFile>/TDTPipeOnline_4.m</appFile>
+    <appFile>/TDTPipeOnline_4.fig</appFile>
+    <appFile>/TDTPipeOnline_4.prj</appFile>
+    <appFile>/TDTPipeOnline_4_activex5</appFile>
+    <appFile>/TDTPipeOnline_4_activex6</appFile>
+    <appFile>/TDTPipeOnline_4_activex7</appFile>
+    <appFile>/anaTDTData.m</appFile>
+    <appFile>/combine_TN.m</appFile>
+    <appFile>/dataCat.m</appFile>
+    <appFile>/gauss_smooth2.m</appFile>
+    <appFile>/getTDTData.m</appFile>
+    <appFile>/getTimeStamps.m</appFile>
+    <appFile>/makeData_TN.m</appFile>
+    <appFile>/movingstd.m</appFile>
+    <appFile>/nanrunmean.m</appFile>
+    <appFile>/nans.m</appFile>
+    <appFile>/sGUI.fig</appFile>
+    <appFile>/sGUI.m</appFile>
+    <appFile>/TPOff.m</appFile>
+    <appFile>/tuningCurve2.m</appFile>
+    <appFile>/tuningCurve3.m</appFile>
+  </appEntries>
+
+</appProperties>
